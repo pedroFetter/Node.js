@@ -6,6 +6,8 @@ process.on('exit', ()=>{
     console.log('script está prestes a terminar')
 })
 
+//somente um comentário
+
 const fatorial = (num)=>{
     if(num === 0) {
         return 1
